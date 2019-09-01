@@ -1,0 +1,26 @@
+{
+  "name": "mockery-istanbul-example",
+  "version": "1.0.0",
+  "description": "Example of proper unit testing on NodeJS using Mockery, Sinon, Istanbul",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wcrbrm/mockery-istanbul-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wcrbrm/mockery-istanbul-example/issues"
+  },
+  "homepage": "https://github.com/wcrbrm/mockery-istanbul-example#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0",
+    "mockery": "^2.1.0",
+    "nyc": "^14.1.1",
+    "sinon": "^7.4.1"
+  }
+}
